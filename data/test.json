@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Item 1",
+      "description": "This is the first item.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "title": "Item 2",
+        "description": "This is the first item.",
+        "image": "https://via.placeholder.com/150"
+      }
+
+  ]
