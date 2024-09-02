@@ -1,0 +1,735 @@
+{
+    "skillsToPursue": [
+      {
+          "category": "Advanced Financial Knowledge",
+          "skills": [
+            {
+              "skill": "Banking & Financial Regulations",
+              "courses": [
+                {
+                  "title": "Regulation and Compliance in Banking and Financial Markets",
+                  "name": "Regulation and Compliance in Banking and Financial Markets (Coursera)",
+                  "link": "",
+                  "price": 600
+                },
+                {
+                  "title": "Financial Regulation Fundamentals",
+                  "name": "Financial Regulation: From the Global Financial Crisis to Fintech and COVID (edX)",
+                  "link": "",
+                  "price": 600
+                },
+                {
+                  "title": "Banking and Financial Institutions",
+                  "name": "Banking and Financial Institutions (FutureLearn)",
+                  "link": "",
+                  "price": 800
+                },
+                {
+                  "title": "Advanced Topics in Regulatory Finance",
+                  "name": "Advanced Topics in Regulatory Finance (LinkedIn Learning)",
+                  "link": "",
+                  "price": 5400
+                }
+            ]
+            
+            },
+            {
+              "skill": "Financial Management",
+              "courses": [
+                  {
+                    "title": "Financial Management Specialization",
+                    "name": "Financial Management Specialization (Coursera)",
+                    "link": "",
+                    "price": 1200
+                  },
+                  {
+                    "title": "Corporate Financial Management",
+                    "name": "Corporate Financial Management (edX)",
+                    "link": "",
+                    "price": 576
+                  },
+                  {
+                    "title": "Strategic Financial Management",
+                    "name": "Strategic Financial Management (Udemy)",
+                    "link": "",
+                    "price": 1400
+                  },
+                  {
+                    "title": "Essentials of Corporate Financial Analysis and Decision-Making",
+                    "name": "Essentials of Corporate Financial Analysis and Decision-Making (Coursera)",
+                    "link": "",
+                    "price": 3500
+                  }
+                ]
+            },
+            {
+              "skill": "Cryptocurrency Economics",
+              "courses": [
+                  {
+                    "title": "Cryptocurrency and Blockchain",
+                    "name": "Cryptocurrency and Blockchain: An Introduction to Digital Currencies (Coursera)",
+                    "link": "",
+                    "price": 1500
+                  },
+                  {
+                    "title": "Bitcoin and Cryptocurrency Technologies",
+                    "name": "Bitcoin and Cryptocurrency Technologies (edX)",
+                    "link": "",
+                    "price": 2000
+                  },
+                  {
+                    "title": "Advance Concepts in Cryptocurrency",
+                    "name": "Digital Currencies: Revolution in Money and Payments? (Coursera)",
+                    "link": "",
+                    "price": 7000
+                  },
+                  {
+                    "title": "Crypto Economics",
+                    "name": "Crypto Economics (Udemy)",
+                    "link": "",
+                    "price": 5000
+                  }
+                ]
+            }
+          ]
+        },
+        {
+          "category": "Leadership in Financial Technology (Fintech)",
+          "skills": [
+            {
+              "skill": "Strategic Leadership",
+              "courses": [
+                {
+                  "title": "Strategic Leadership and Management Specialization",
+                  "name": "Strategic Leadership and Management Specialization (Coursera)",
+                  "link": "",
+                  "price": 1400
+                },
+                {
+                  "title": "Leading Strategic Innovation in Organizations",
+                  "name": "Leading Strategic Innovation in Organizations (edX)",
+                  "link": "",
+                  "price": 500
+                },
+                {
+                  "title": "Effective Leadership",
+                  "name": "Developing Executive Leadership (LinkedIn Learning)",
+                  "link": "",
+                  "price": 900
+                },
+                {
+                  "title": "Strategic Leader Series",
+                  "name": "Becoming a Strategic Leader (FutureLearn)",
+                  "link": "",
+                  "price": 2300
+                }
+            ]
+            },
+            {
+              "skill": "Corporate Governance",
+              "courses": [
+                {
+                  "title": "Corporate Governance",
+                  "name": "Corporate Governance: Maximize Your Effectiveness as a Director (edX)",
+                  "link": "",
+                  "price": 900
+                },
+                {
+                  "title": "Understand the Decision-Making Process",
+                  "name": "Corporate Governance: Understand the Decision-Making Process (Coursera)",
+                  "link": "",
+                  "price": 3000
+                },
+                {
+                  "title": "Corporate Governance in a Global Context",
+                  "name": "Corporate Governance in a Global Context (FutureLearn)",
+                  "link": "",
+                  "price": 4000
+                },
+                {
+                  "title": "Governance, Risk, and Compliance",
+                  "name": "Governance, Risk, and Compliance (LinkedIn Learning)",
+                  "link": "",
+                  "price": 5000
+                }
+              ]
+            },
+            {
+              "skill": "Change Management",
+              "courses": [
+                {
+                  "title": "Change Management: Leading Change in Your Organization",
+                  "name": "Change Management: Leading Change in Your Organization (edX)",
+                  "link": "",
+                  "price": 1600
+                },
+                {
+                  "title": "Change Management and Leadership",
+                  "name": "Change Management and Leadership (Udemy)",
+                  "link": "",
+                  "price": 2400
+                },
+                {
+                  "title": "Organizational Change and Culture for Adapting to Disruption",
+                  "name": "Organizational Change and Culture for Adapting to Disruption (Coursera)",
+                  "link": "",
+                  "price": 800
+                },
+                {
+                  "title": "Change Management Foundations",
+                  "name": "Change Management Foundations (LinkedIn Learning)",
+                  "link": "",
+                  "price": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Regulatory and Compliance Expertise",
+          "skills": [
+            {
+              "skill": "Regulatory Landscape",
+              "courses": [
+                {
+                  "title": "Global Regulatory Landscape for Fintech and Financial Innovation",
+                  "name": "Global Regulatory Landscape for Fintech and Financial Innovation (edX)",
+                  "link": "",
+                  "price": null
+                },
+                {
+                  "title": "Regulation, Compliance, and Enforcement",
+                  "name": "Regulation, Compliance, and Enforcement (Coursera)",
+                  "link": "",
+                  "price": null
+                },
+                {
+                  "title": "Financial Compliance Fundamentals",
+                  "name": "Financial Compliance Fundamentals (Udemy)",
+                  "link": "",
+                  "price": null
+                },
+                {
+                  "title": "Introduction to Regulatory Affairs",
+                  "name": "Introduction to Regulatory Affairs (FutureLearn)",
+                  "link": "",
+                  "price": null
+                },
+                {
+                  "title": "Understanding the Regulatory Environment",
+                  "name": "Understanding the Regulatory Environment (LinkedIn Learning)",
+                  "link": "",
+                  "price": null
+                }
+            ]
+              },
+              {
+                "skill": "Legal Acumen",
+                "courses": [
+                    {
+                      "title": "Fintech Law and Policy",
+                      "name": "Fintech Law and Policy (Coursera)",
+                      "link": "",
+                      "price": 600
+                    },
+                    {
+                      "title": "Introduction to Financial Law and Regulation",
+                      "name": "Introduction to Financial Law and Regulation (edX)",
+                      "link": "",
+                      "price": 2500
+                    },
+                    {
+                      "title": "Legal Tech and the Digital Transformation of Law",
+                      "name": "Legal Tech and the Digital Transformation of Law (Udemy)",
+                      "link": "",
+                      "price": 700
+                    },
+                    {
+                      "title": "Legal Aspects of Blockchain Technology",
+                      "name": "Legal Aspects of Blockchain Technology (FutureLearn)",
+                      "link": "",
+                      "price": 300
+                    },
+                    {
+                      "title": "Law and Financial Markets",
+                      "name": "Law and Financial Markets (LinkedIn Learning)",
+                      "link": "",
+                      "price": 799
+                    }
+                ]
+            }
+          ]
+        },
+        {
+          "category": "Blockchain and Cryptography",
+          "skills": [
+            {
+              "skill": "Advanced Cryptography",
+              "courses": [
+                {
+                  "title": "Applied Cryptography",
+                  "name": "Applied Cryptography (Udemy)",
+                  "link": "",
+                  "price": 2799
+                },
+                {
+                  "title": "Cryptography and Network Security",
+                  "name": "Cryptography and Network Security (edX)",
+                  "link": "",
+                  "price": 989
+                },
+                {
+                  "title": "Cryptography",
+                  "name": "Introduction to Cryptography by Stanford University (Coursera)",
+                  "link": "",
+                  "price": 999
+                }
+                ]
+            },
+            {
+              "skill": "Blockchain Integration",
+              "courses": [
+                {
+                  "title": "Blockchain for Business",
+                  "name": "Blockchain for Business: The New Industrial Revolution (Udemy)",
+                  "link": "",
+                  "price": 500
+                },
+                {
+                  "title": "Blockchain and Smart Contracts",
+                  "name": "Blockchain and Smart Contracts (edX)",
+                  "link": "",
+                  "price": 1200
+                },
+                {
+                  "title": "Integrating Blockchain with Business Processes",
+                  "name": "Integrating Blockchain with Business Processes (FutureLearn)",
+                  "link": "",
+                  "price": 2400
+                },
+                {
+                  "title": "Blockchain: Foundations and Use Cases",
+                  "name": "Blockchain: Foundations and Use Cases (Coursera)",
+                  "link": "",
+                  "price": 3000
+                }
+            ]
+            }
+          ]
+        },
+        {
+          "category": "Global Financial Markets",
+          "skills": [
+            {
+              "skill": "Global Financial Systems",
+              "courses": [
+                  {
+                    "title": "Global Financial Markets and Instruments",
+                    "name": "Global Financial Markets and Instruments (Coursera)",
+                    "link": "",
+                    "price": 1900
+                  },
+                  {
+                    "title": "International Finance and Global Markets",
+                    "name": "International Finance and Global Markets (edX)",
+                    "link": "",
+                    "price": 2100
+                  },
+                  {
+                    "title": "Global Financial Markets and Financial Crisis",
+                    "name": "Global Financial Markets and Financial Crisis (Udemy)",
+                    "link": "",
+                    "price": 2000
+                  },
+                  {
+                    "title": "Global Markets: International Capital Markets",
+                    "name": "Global Markets: International Capital Markets (LinkedIn Learning)",
+                    "link": "",
+                    "price": 1200
+                  }
+                ]
+            },
+            {
+              "skill": "Digital Asset Markets",
+              "courses": [
+                  {
+                    "title": "Digital Assets and Cryptocurrency Trading",
+                    "name": "Digital Assets and Cryptocurrency Trading (Udemy)",
+                    "link": "",
+                    "price": 800
+                  },
+                  {
+                    "title": "Investing in Digital Assets",
+                    "name": "Investing in Digital Assets (edX)",
+                    "link": "",
+                    "price": 1200
+                  },
+                  {
+                    "title": "The Digital Asset Ecosystem",
+                    "name": "The Digital Asset Ecosystem (FutureLearn)",
+                    "link": "",
+                    "price": 1200
+                  }
+                ]
+            }
+          ]
+        },
+        {
+          "category": "Risk Management",
+          "skills": [
+            {
+              "skill": "Cybersecurity",
+              "courses": [
+                  {
+                    "title": "Cybersecurity for Business",
+                    "name": "Cybersecurity for Business (Coursera)",
+                    "link": "",
+                    "price": null
+                  },
+                  {
+                    "title": "Cybersecurity Specialization",
+                    "name": "Cybersecurity Specialization (Udemy)",
+                    "link": "",
+                    "price": null
+                  },
+                  {
+                    "title": "Advanced Cybersecurity Management",
+                    "name": "Advanced Cybersecurity Management (LinkedIn Learning)",
+                    "link": "",
+                    "price": null
+                  },
+                  {
+                    "title": "Developing a Program for Your Business",
+                    "name": "Cybersecurity: Developing a Program for Your Business (FutureLearn)",
+                    "link": "",
+                    "price": null
+                  }
+                ]
+            },
+            {
+              "skill": "Operational Risk Management",
+              "courses": [
+                {
+                  "title": "Operational Risk Management in Financial Services",
+                  "name": "Operational Risk Management in Financial Services (Coursera)",
+                  "link": "",
+                  "price": 2199
+                },
+                {
+                  "title": "Risk Management for Business",
+                  "name": "Risk Management for Business (edX)",
+                  "link": "",
+                  "price": 2199
+                },
+                {
+                  "title": "Enterprise Risk Management: A Comprehensive Approach",
+                  "name": "Enterprise Risk Management: A Comprehensive Approach (Udemy)",
+                  "link": "",
+                  "price": 3199
+                },
+                {
+                  "title": "Operational Risk Management: Identify, Analyze, and Mitigate",
+                  "name": "Operational Risk Management: Identify, Analyze, and Mitigate (LinkedIn Learning)",
+                  "link": "",
+                  "price": 2500
+                },
+                {
+                  "title": "Understanding and Managing Risk in Finance",
+                  "name": "Understanding and Managing Risk in Finance (FutureLearn)",
+                  "link": "",
+                  "price": 600
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Innovation and Technology Leadership",
+          "skills": [
+            {
+              "skill": "Technological Innovation",
+              "courses": [
+                  {
+                    "title": "Leading Digital Transformation and Innovation",
+                    "name": "Leading Digital Transformation and Innovation (Coursera)",
+                    "link": "",
+                    "price": 1999
+                  },
+                  {
+                    "title": "Innovation Management",
+                    "name": "Innovation Management (edX)",
+                    "link": "",
+                    "price": 1999
+                  },
+                  {
+                    "title": "Digital Innovation for Business Leaders",
+                    "name": "Digital Innovation for Business Leaders (Udemy)",
+                    "link": "",
+                    "price": 1999
+                  },
+                  {
+                    "title": "Fostering Innovation and Creativity",
+                    "name": "Fostering Innovation and Creativity (LinkedIn Learning)",
+                    "link": "",
+                    "price": 1999
+                  },
+                  {
+                    "title": "Innovation: From Creativity to Entrepreneurship",
+                    "name": "Innovation: From Creativity to Entrepreneurship (FutureLearn)",
+                    "link": "",
+                    "price": 699
+                  }
+                ]
+            },
+            {
+              "skill": "Product Development",
+              "courses": [
+                  {
+                    "title": "Product Management for Technology Companies",
+                    "name": "Product Management for Technology Companies (Coursera)",
+                    "link": "",
+                    "price": 899
+                  },
+                  {
+                    "title": "Product Innovation and Design Thinking",
+                    "name": "Product Innovation and Design Thinking (edX)",
+                    "link": "",
+                    "price": 899
+                  },
+                  {
+                    "title": "Agile Product Management",
+                    "name": "Agile Product Management (Udemy)",
+                    "link": "",
+                    "price": 899
+                  },
+                  {
+                    "title": "Product Development Essentials",
+                    "name": "Product Development Essentials (LinkedIn Learning)",
+                    "link": "",
+                    "price": 899
+                  }
+                ]
+            }
+          ]
+        },
+        {
+          "category": "Stakeholder and Public Relations",
+          "skills": [
+            {
+              "skill": "Stakeholder Engagement",
+              "courses": [
+                {
+                  "title": "Stakeholder Management",
+                  "name": "Stakeholder Management (Coursera)",
+                  "link": "",
+                  "price": 899
+                },
+                {
+                  "title": "Engaging Stakeholders for Project Success",
+                  "name": "Engaging Stakeholders for Project Success (edX)",
+                  "link": "",
+                  "price": 899
+                },
+                {
+                  "title": "Stakeholder Communication and Management",
+                  "name": "Stakeholder Communication and Management (Udemy)",
+                  "link": "",
+                  "price": 899
+                },
+                {
+                  "title": "Managing Stakeholder Relationships",
+                  "name": "Managing Stakeholder Relationships (LinkedIn Learning)",
+                  "link": "",
+                  "price": 1299
+                },
+                {
+                  "title": "Effective Stakeholder Engagement",
+                  "name": "Effective Stakeholder Engagement (FutureLearn)",
+                  "link": "",
+                  "price": 1399
+                }
+              ]
+            },
+            {
+              "skill": "Thought Leadership",
+              "courses": [
+                {
+                  "title": "Building Your Thought Leadership Platform",
+                  "name": "Building Your Thought Leadership Platform (Udemy)",
+                  "link": "",
+                  "price": 3999
+                },
+                {
+                  "title": "Becoming a Thought Leader",
+                  "name": "Becoming a Thought Leader (LinkedIn Learning)",
+                  "link": "",
+                  "price": 3999
+                },
+                {
+                  "title": "The Art of Thought Leadership",
+                  "name": "The Art of Thought Leadership (Coursera)",
+                  "link": "",
+                  "price": 3999
+                },
+                {
+                  "title": "Thought Leadership: Impact and Influence",
+                  "name": "Thought Leadership: Impact and Influence (edX)",
+                  "link": "",
+                  "price": 3999
+                },
+                {
+                  "title": "Personal Branding and Thought Leadership",
+                  "name": "Personal Branding and Thought Leadership (FutureLearn)",
+                  "link": "",
+                  "price": 3999
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Mergers and Acquisitions (M&A)",
+          "skills": [
+            {
+              "skill": "Strategic M&A",
+              "courses": [
+                  {
+                    "title": "Mergers and Acquisitions: The Complete Guide",
+                    "name": "Mergers and Acquisitions: The Complete Guide (Udemy)",
+                    "link": "",
+                    "price": 1299
+                  },
+                  {
+                    "title": "Strategic Mergers and Acquisitions",
+                    "name": "Strategic Mergers and Acquisitions (Coursera)",
+                    "link": "",
+                    "price": 1299
+                  },
+                  {
+                    "title": "Mergers and Acquisitions",
+                    "name": "Mergers and Acquisitions (edX)",
+                    "link": "",
+                    "price": 1299
+                  },
+                  {
+                    "title": "M&A Strategy and Execution",
+                    "name": "M&A Strategy and Execution (LinkedIn Learning)",
+                    "link": "",
+                    "price": 1299
+                  },
+                  {
+                    "title": "Mergers, Acquisitions, and Alliances",
+                    "name": "Mergers, Acquisitions, and Alliances (FutureLearn)",
+                    "link": "",
+                    "price": 1299
+                  }
+                ]
+            },
+            {
+              "skill": "Integration Strategies",
+              "courses": [
+                  {
+                    "title": "Post-Merger Integration",
+                    "name": "Post-Merger Integration (Coursera)",
+                    "link": "",
+                    "price": 5999
+                  },
+                  {
+                    "title": "Successful M&A Integration Strategies",
+                    "name": "Successful M&A Integration Strategies (Udemy)",
+                    "link": "",
+                    "price": 5999
+                  },
+                  {
+                    "title": "M&A Integration Masterclass",
+                    "name": "M&A Integration Masterclass (FutureLearn)",
+                    "link": "",
+                    "price": 5999
+                  },
+                  {
+                    "title": "Integration Strategies for M&A Success",
+                    "name": "Integration Strategies for M&A Success (edX)",
+                    "link": "",
+                    "price": 5999
+                  }
+                ]
+            }
+          ]
+      },
+      {
+        "category": "Ethical and Social Responsibility",
+        "skills": [
+          {
+            "skill": "Ethical Leadership",
+            "courses": [
+                {
+                  "title": "Ethical Leadership in Practice",
+                  "name": "Ethical Leadership in Practice (Coursera)",
+                  "link": "",
+                  "price": 1999
+                },
+                {
+                  "title": "Leading with Integrity: Ethics in Action",
+                  "name": "Leading with Integrity: Ethics in Action (edX)",
+                  "link": "",
+                  "price": 1999
+                },
+                {
+                  "title": "Ethical Leadership: Moving Beyond Compliance",
+                  "name": "Ethical Leadership: Moving Beyond Compliance (Udemy)",
+                  "link": "",
+                  "price": 1999
+                },
+                {
+                  "title": "Leadership Ethics: Leading with Values",
+                  "name": "Leadership Ethics: Leading with Values (LinkedIn Learning)",
+                  "link": "",
+                  "price": 1999
+                },
+                {
+                  "title": "Responsible Leadership and Ethics",
+                  "name": "Responsible Leadership and Ethics (FutureLearn)",
+                  "link": "",
+                  "price": 1999
+                }
+              ]
+          },
+          {
+            "skill": "Social Impact",
+            "courses": [
+                {
+                  "title": "Social Impact Strategy: Tools for Entrepreneurs and Innovators",
+                  "name": "Social Impact Strategy: Tools for Entrepreneurs and Innovators (Coursera)",
+                  "link": "",
+                  "price": 1499
+                },
+                {
+                  "title": "Building a Social Impact Business",
+                  "name": "Building a Social Impact Business (edX)",
+                  "link": "",
+                  "price": 1499
+                },
+                {
+                  "title": "Social Impact and Sustainability",
+                  "name": "Social Impact and Sustainability (Udemy)",
+                  "link": "",
+                  "price": 1499
+                },
+                {
+                  "title": "Creating Social Impact Through Business",
+                  "name": "Creating Social Impact Through Business (LinkedIn Learning)",
+                  "link": "",
+                  "price": 1499
+                },
+                {
+                  "title": "Social Enterprise: Business Doing Good",
+                  "name": "Social Enterprise: Business Doing Good (FutureLearn)",
+                  "link": "",
+                  "price": 1499
+                }
+              ]
+          }
+      ]
+    }
+  ]
+  }
