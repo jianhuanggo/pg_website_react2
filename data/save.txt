@@ -1,0 +1,61 @@
+aws ec2 describe-tags --filters "Name=resource-id,Values=subnet-a-id"
+# Ensure output contains kubernetes.io/role/elb=1 for public subnets and kubernetes.io/role/internal-elb=1 for private subnets
+
+
+eksctl create cluster \
+  --name my-private-eks \
+  --region us-east-1 \
+  --version 1.28 \
+  --without-nodegroup \
+  --vpc-public-subnets subnet-a,subnet-b \
+  --vpc-private-subnets subnet-c,subnet-d \
+  --node-private-networking \
+  --nodegroup-name private-workers # we’ll add the nodegroup separately next
+
+
+  aws eks update-cluster-config \
+  --region us-east-1 \
+  --name my-private-eks \
+  --resources-vpc-config endpointPublicAccess=false,endpointPrivateAccess=true
+
+
+
+eksctl create nodegroup \
+  --cluster my-private-eks \
+  --name private-workers \
+  --node-type t3.medium \
+  --nodes 2 \
+  --nodes-min 2 \
+  --nodes-max 4 \
+  --node-private-networking \
+  --subnet-ids subnet-c,subnet-d
+
+
+eksctl utils associate-iam-oidc-provider --cluster my-private-eks --approve
+
+
+curl -o iam_policy.json https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/main/docs/install/iam_policy.json
+
+aws iam create-policy \
+  --policy-name AWSLoadBalancerControllerIAMPolicy \
+  --policy-document file://iam_policy.json
+
+
+eksctl create iamserviceaccount \
+  --cluster my-private-eks \
+  --namespace kube-system \
+  --name aws-load-balancer-controller \
+  --attach-policy-arn arn:aws:iam::<ACCOUNT_ID>:policy/AWSLoadBalancerControllerIAMPolicy \
+  --override-existing-serviceaccounts \
+  --approve
+
+
+
+helm repo add eks https://aws.github.io/eks-charts
+helm repo update
+
+helm upgrade -i aws-load-balancer-controller eks/aws-load-balancer-controller \
+  --set clusterName=my-private-eks \
+  --set serviceAccount.create=false \
+  --set serviceAccount.name=aws-load-balancer-controller \
+  --namespace kube-system
